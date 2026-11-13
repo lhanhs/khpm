@@ -1,5 +1,5 @@
 # khpm
-Cross-platform adapter-bassd package manager wrapper
+Cross-platform adapter-based package manager wrapper
 
 ---
 ## Table of Contents
